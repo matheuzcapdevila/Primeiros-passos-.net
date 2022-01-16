@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\bin\Debug\net6.0\Exercicio-pratico.exe
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\bin\Debug\net6.0\Exercicio-pratico.deps.json
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\bin\Debug\net6.0\Exercicio-pratico.runtimeconfig.json
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\bin\Debug\net6.0\Exercicio-pratico.dll
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\bin\Debug\net6.0\ref\Exercicio-pratico.dll
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\bin\Debug\net6.0\Exercicio-pratico.pdb
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\obj\Debug\net6.0\Exercicio-pratico.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\obj\Debug\net6.0\Exercicio-pratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\obj\Debug\net6.0\Exercicio-pratico.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\obj\Debug\net6.0\Exercicio-pratico.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\obj\Debug\net6.0\Exercicio-pratico.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\obj\Debug\net6.0\Exercicio-pratico.dll
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\obj\Debug\net6.0\ref\Exercicio-pratico.dll
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\obj\Debug\net6.0\Exercicio-pratico.pdb
+C:\Users\Matheus\Desktop\Nova pasta\Primeiros-passos-.net\Exercicio-pratico\obj\Debug\net6.0\Exercicio-pratico.genruntimeconfig.cache
